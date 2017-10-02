@@ -1,8 +1,10 @@
 Blazer
 ====
 
-[![GoDoc](https://godoc.org/github.com/kurin/blazer/b2?status.svg)](https://godoc.org/github.com/kurin/blazer/b2)
-[![Build Status](https://travis-ci.org/kurin/blazer.svg)](https://travis-ci.org/kurin/blazer)
+[![GoDoc](https://godoc.org/github.com/harshavardhana/blazer/b2?status.svg)](https://godoc.org/github.com/harshavardhana/blazer/b2)
+[![Build Status](https://travis-ci.org/harshavardhana/blazer.svg)](https://travis-ci.org/harshavardhana/blazer)
+
+Fork of [blazer](https://github.com/kurin/blazer) with some more fixes and code modifications.
 
 Blazer is a Golang client library for Backblaze's B2 object storage service.
 It is designed for simple integration with existing applications that may
@@ -16,7 +18,7 @@ aspects, making it suitable to upload very large files, or over multi-day time
 scales.
 
 ```go
-import "github.com/kurin/blazer/b2"
+import "github.com/harshavardhana/blazer/b2"
 ```
 
 ## Examples

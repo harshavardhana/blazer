@@ -28,7 +28,7 @@ import (
 	"io/ioutil"
 	"reflect"
 
-	"github.com/kurin/blazer/b2"
+	"github.com/harshavardhana/blazer/b2"
 )
 
 const metaKey = "blazer-meta-key-no-touchie"

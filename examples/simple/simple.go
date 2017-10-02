@@ -32,7 +32,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/kurin/blazer/b2"
+	"github.com/harshavardhana/blazer/b2"
 )
 
 func main() {

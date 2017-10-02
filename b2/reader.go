@@ -21,7 +21,7 @@ import (
 	"io"
 	"sync"
 
-	"github.com/kurin/blazer/internal/blog"
+	"github.com/harshavardhana/blazer/internal/blog"
 )
 
 var errNoMoreContent = errors.New("416: out of content")
